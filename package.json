@@ -1,0 +1,16 @@
+{
+  "name": "@betlaid/is-notes",
+  "version": "1.0.0",
+  "description": "Is this string notes?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YanaSugosha/ng-npm-package.git"
+  },
+  "keywords": ["notes"],
+  "author": "Betlaid",
+  "license": "ISC"
+}
